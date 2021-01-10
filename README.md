@@ -1,2 +1,1 @@
-# vaibhavkrishnakumar.github.io
-GitHub Pages
+# GitHub Pages
