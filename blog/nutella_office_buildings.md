@@ -1,4 +1,4 @@
-## Nutella and Office Buildings
+# Nutella and Office Buildings
 
 What do jars of Nutella&trade; and office buildings have in common? It sounds like the start of a bad joke but I want to make a serious point. Wastage - of anything - irks me to no end. I'm clearly not alone in this [1] but I wasn't aware of how big a problem it was until I did some research for this post.
 
@@ -14,24 +14,26 @@ Office buildings come to mind because I live near Canary Wharf, the financial hu
 
 We live in a world of abundance. There is always more if you need it, as long as you are willing to fork out the cash. The prevailing mindset is: if it's broke, replace it _not_ fix it. Minimising waste, using only what we need, is the sensible thing to go and not just for monetary reasons. As a planet, we overconsume by almost 78% - we need 1.78 Earths to sustain our current lifestyle [10]. Nutella jars and office buildings are (not so) small examples, but they exemplify our mindset, which is what I wanted to highlight in this post. We need to change.
 
-### References
+## References
 
-[1] https://www.wired.com/2015/07/physics-behind-no-stick-ketchup-mayo-bottles/
+[1] <https://www.wired.com/2015/07/physics-behind-no-stick-ketchup-mayo-bottles/>
 
-[2] https://metro.co.uk/2020/11/14/unfortunately-the-secret-spreading-knife-in-nutella-jars-isnt-actually-real-13593666/
+[2] <https://metro.co.uk/2020/11/14/unfortunately-the-secret-spreading-knife-in-nutella-jars-isnt-actually-real-13593666/>
 
-[3] https://www.gagmad.com/nutella-butter-knife/
+[3] <https://www.gagmad.com/nutella-butter-knife/>
 
-[4] https://www.cookinglight.com/cooking-101/ways-to-use-bottom-nutella-jar
+[4] <https://www.cookinglight.com/cooking-101/ways-to-use-bottom-nutella-jar>
 
-[5] https://www.tesco.com/groceries/en-GB/products/264365273
+[5] <https://www.tesco.com/groceries/en-GB/products/264365273>
 
-[6] https://www.greenbiz.com/article/link-between-food-waste-and-packaging
+[6] <https://www.greenbiz.com/article/link-between-food-waste-and-packaging>
 
-[7] https://www.bbc.co.uk/news/science-environment-39030055
+[7] <https://www.bbc.co.uk/news/science-environment-39030055>
 
-[8] https://inews.co.uk/news/coronavirus-lockdown-empty-offices-electricity-wasting-energy-lights-420513
+[8] <https://inews.co.uk/news/coronavirus-lockdown-empty-offices-electricity-wasting-energy-lights-420513>
 
-[9] https://www.vice.com/en/article/4ayyk3/canary-wharf-overnight-energy-waste
+[9] <https://www.vice.com/en/article/4ayyk3/canary-wharf-overnight-energy-waste>
 
-[10] https://www.theworldcounts.com/challenges/planet-earth/state-of-the-planet/overuse-of-resources-on-earth/story
+[10] <https://www.theworldcounts.com/challenges/planet-earth/state-of-the-planet/overuse-of-resources-on-earth/story>
+
+### [Home](../index)
