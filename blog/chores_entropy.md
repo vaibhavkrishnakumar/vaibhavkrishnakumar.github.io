@@ -13,7 +13,6 @@ Take a simple example - doing laundry. Taking the clothes from the basket to the
 The more a chore decreases entropy, the more keen I'm to get it done. Working from home v/s returning to office is a hotly contested topic, but one thing is for sure - I'll miss my household chores time through the day once I'm back!
 
 &nbsp;
-&nbsp;
 
 **My household chores ranking**
 
@@ -29,6 +28,8 @@ Dishes
 
 Vacuum / General Cleaning
 1. Just a one step process, but the feeling of a nice, clean flat after is definitely worth it 🙂
+
+&nbsp;
 
 ## References
 [1] <https://blog.softwaremill.com/what-is-it-like-to-work-remotely-as-a-software-developer-1c0777e4a2a9>
