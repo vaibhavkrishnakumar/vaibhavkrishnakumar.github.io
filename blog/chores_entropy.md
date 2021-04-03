@@ -12,7 +12,10 @@ Take a simple example - doing laundry. Taking the clothes from the basket to the
 
 The more a chore decreases entropy, the more keen I'm to get it done. Working from home v/s returning to office is a hotly contested topic, but one thing is for sure - I'll miss my household chores time through the day once I'm back!
 
-My household chores ranking
+&nbsp;
+&nbsp;
+
+**My household chores ranking**
 
 Laundry
 1. Hanging clothes up to dry on the airer - _big decrease in entropy_
