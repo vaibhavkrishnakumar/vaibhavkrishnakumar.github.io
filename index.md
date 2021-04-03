@@ -11,3 +11,5 @@ MEng Mathematics and Computer Science, [Imperial College London](https://www.imp
 # Blog
 *  [Nutella and Office Buildings](blog/nutella_office_buildings)
    March 2021
+*  [Chores and the Second Law of Thermodynamics](blog/chores_entropy)
+   April 2021
