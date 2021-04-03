@@ -1,7 +1,6 @@
 # About Me
 
-Software Engineer @ [OpenGamma](https://opengamma.com/)
-
+Software Engineer @ [OpenGamma](https://opengamma.com/)  
 Ex-[Morgan Stanley](https://www.morganstanley.com/)
 
 MEng Mathematics and Computer Science, [Imperial College London](https://www.imperial.ac.uk/), 2018
