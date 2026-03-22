@@ -1,6 +1,6 @@
 # About Me
 
-Product Engineering Manager @ [OpenGamma](https://opengamma.com/)  
+Product Engineering Manager @ [OpenGamma](https://opengamma.com/), a [Trading Technologies](https://tradingtechnologies.com/) company
 Ex-[Morgan Stanley](https://www.morganstanley.com/)
 
 MEng Mathematics and Computer Science, [Imperial College London](https://www.imperial.ac.uk/), 2018
