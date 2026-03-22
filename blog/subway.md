@@ -1,18 +1,51 @@
-This is the story of what is likely to be my last Subway sandwich. Any company that choses to treat it's most loyal customers poorly does not deserve my continued custom.
+# Loyalty, Incentives, and a Subway Sandwich
 
-I am, of course, being dramatic. Exaggeration is for humorous effect. This is very much a first world problem and I doubt it is a complete boycott, but certainly I wouldn't willingly pick Subway in future.
+This is the story of what is likely to be my last Subway sandwich. Any company that chooses to treat its most loyal customers poorly does not deserve my continued custom.
 
-It all starts with an email - the company, almost causally, announced that their loyalty rewards programme is changing and all existing points would be voided after a certain date. As a software engineer, I'm no stranger to breaking changes and data migrations. However the storage layer needing a copmlete reset is surely unacceptable for any technical system in retail? I do wonder how much of this was technically driven, or if it was a business decision, lazy or intentional
+I am, of course, being slightly dramatic. Exaggeration is useful for emphasis. This is very much a first-world problem and unlikely to result in a complete boycott — but I certainly wouldn’t go out of my way to choose Subway in future.
 
-It is estimated that Starbucks, another American staple in the food and beverage business, holds $1.6bn in customer loyalty points. [1] It puts the company in the top 15% of American banks. Consumers have effectively given Starbucks an interest free loan, without all the regulations that come with an institution holding customer funds. Imagine Starbucks turning around and saying, "all loyalty points will be invalid after after 90 days!"
+## The Change
 
-What's worse, the change negatively impacts _the most_ loyal customers - ironically, the more loyal you are, and more points you have accrued, the more you lose! The new scheme is also undeniably worse, requiring higher spend and points total than the current scheme for similarly priced rewards [2]. Now I am protesting very much on principle - my total of 1378 points is worth about £11, I'm hardly losing sleep over a footlong meal deal. But that is really not the point
+It started with an email. Subway announced that their loyalty rewards programme would be changing, and all existing points would expire after a certain date.
 
-To their credit, Subway gave 4 months' notice on the changeover to use up all points. That translates to 4 months for franchises to blame 'technical problems' or 'network issues' to stop redemption of points across the country. These signs started popping up at many Subway restaurants leaving consumers unable to spend their points while on the clock. In fact, many franchise outlets conveniently blamed the upcoming rewards change for their network issues! I was down to my last 40 points (~£4) when 3 different Subways (in Camberwell, the O2 and Stanmore) all rejected my points in the last 2 weeks before the changeover
+As a software engineer, I’m no stranger to breaking changes or data migrations. However, a complete reset of the “storage layer” is a curious justification in a consumer-facing retail system. It raises the question: was this truly a technical limitation, or a business decision dressed up as one?
 
-In frustration, I deleted the old app and ignored the migration email to set up a new acount. Out of curiosity though, a month later, I did check the reviews on the new Subway Rewards app in the iOS App Store - as expected, it was a mess. Overwhelmingly negative points on the new rewards scheme, app design and even quality of food. Good riddance! My search for a new preferred sandwich shop is on...
+## Loyalty as a Liability
 
-References
+Loyalty programmes are not trivial. It is estimated that Starbucks holds $1.6bn in customer loyalty balances, effectively placing it among the top 15% of American banks [1]. Customers are, in effect, providing an interest-free loan — without the regulatory safeguards typically associated with financial institutions.
 
-[1] https://www.fintechtalents.com/starbucks-banking-serving-coffee/
-[2] https://www.moneysavingexpert.com/news/2024/04/subway-rewards-loyalty-scheme/
+Imagine Starbucks announcing that all loyalty balances would expire in 90 days. It would be unthinkable.
+
+## Incentives, Inverted
+
+What makes the Subway change particularly frustrating is that it disproportionately impacts the most loyal customers. The more points you have accrued, the more you stand to lose.
+
+The new scheme is also objectively worse — requiring higher spend and more points for comparable rewards [2].
+
+To be clear, my personal loss was minimal: 1,378 points, worth roughly £11. Hardly life-changing. But that is beside the point. The principle matters more than the amount.
+
+## Execution Matters
+
+To their credit, Subway provided four months’ notice to redeem points.
+
+In practice, that translated to four months of “technical issues” across multiple franchise locations. In the final weeks before expiry, several stores (Camberwell, the O2, and Stanmore) were unable — or unwilling — to process rewards redemptions.
+
+Whether coincidence or convenience, the result was the same: customers were prevented from using the points they had earned.
+
+## Outcome
+
+In frustration, I deleted the app and ignored the migration process entirely.
+
+Out of curiosity, I later checked reviews for the new Subway Rewards app on the iOS App Store. As expected, sentiment was overwhelmingly negative — not just on the rewards scheme, but also on app quality and, interestingly, food itself.
+
+Perhaps this is an overreaction to a minor inconvenience. Or perhaps it is a reminder that incentives matter, and poorly designed systems tend to erode trust over time.
+
+Either way, my search for a new preferred sandwich shop has begun.
+
+## References
+
+[1] <https://www.fintechtalents.com/starbucks-banking-serving-coffee/>
+
+[2] <https://www.moneysavingexpert.com/news/2024/04/subway-rewards-loyalty-scheme/>
+
+### [Home](../index)
